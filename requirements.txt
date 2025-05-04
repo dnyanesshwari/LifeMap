@@ -1,0 +1,10 @@
+streamlit
+folium
+streamlit-folium
+textblob
+speechrecognition
+pyaudio
+requests
+python-dotenv
+numpy
+bcrypt
